@@ -1,0 +1,321 @@
+"","order","name","smiles","CAS.number","sweetness","sweetness.avg.","logSw","references.pp","X","X.1"
+"1",1,"1',4',6'-3Cl-sucrose","ClC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(O)C(O)C1O)CCl","86172-45-4","10000",10000,4,"Zheng",NA,NA
+"2",2,"1',4'-2Cl-sucrose","ClC1C(O)[C@@](OC1CO)(OC1OC(CO)C(O)C(O)C1O)CCl","86172-15-8","3000",3000,3.48,"Gao",NA,NA
+"4",3,"1',6'-2Cl-sucrose","ClCC1O[C@](OC2OC(CO)C(O)C(O)C2O)(CCl)C(O)C1O","61854-83-9","8000",7800,3.89,"Gao",NA,NA
+"6",4,"1'-Cl-sucrose","ClC[C@]1(OC(CO)C(O)C1O)OC1OC(CO)C(O)C(O)C1O","64644-62-8","2000",2000,3.3,"Gao",NA,NA
+"8",5,"4'-Br-4,1',6'-3Cl-sucrose","BrC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(Cl)C(O)C1O)CCl","86172-31-8","350000",325000,5.51,"Gao",NA,NA
+"10",6,"4'-F-4,1',6'-3Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(F)C1O)CCl","86172-32-9","100000",1e+05,5,"Gao",NA,NA
+"12",7,"4,1',4',6'-4Br-sucrose","BrC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CBr)C(Br)C1O)CBr","86172-37-4","750000",750000,5.88,"Gao",NA,NA
+"14",8,"4,1',4',6'-4Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(Cl)C1O)CCl","82950-43-4","220000",210000,5.32,"Gao",NA,NA
+"16",9,"4,1',4'-3Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CO)C(Cl)C1O)CCl","86172-21-6","22000",22000,4.34,"Gao",NA,NA
+"18",10,"4,1',6'-3Br-sucrose","BrC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CBr)C(O)C1O)CBr","85248-14-2","80000",80000,4.9,"Gao",NA,NA
+"20",11,"4,1',6'-3Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(O)C1O)CCl","56038-13-2","65000",62500,4.8,"Gao",NA,NA
+"22",12,"4,1',6'-3F-sucrose","FC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CF)C(O)C1O)CF","475491-24-8","4000",4000,3.6,"Gao",NA,NA
+"24",13,"4,1',6'-3I-sucrose","IC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CI)C(O)C1O)CI","475491-30-6","12000",12000,4.08,"Gao",NA,NA
+"26",14,"4,1'-2Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CO)C(O)C1O)CCl","64644-65-1","12000",12000,4.08,"Gao",NA,NA
+"28",15,"4,4',6'-3Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(Cl)C1O)CO","86172-29-4","16000",16000,4.2,"Gao",NA,NA
+"30",16,"4,6,1',6'-4Cl-sucrose","ClC1C(O)C(O)C(OC1CCl)O[C@@]1(OC(CCl)C(O)C1O)CCl","59343-74-7","20000",20000,4.3,"Gao",NA,NA
+"32",17,"4-Cl-sucrose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CO)C(O)C1O)CO","56038-27-8","500",500,2.7,"Gao",NA,NA
+"34",18,"4-F-1',4',6'-3Br-sucrose","BrC1C(O)[C@@](OC1CBr)(OC1OC(CO)C(F)C(O)C1O)CBr","591229-87-7","100000",1e+05,5,"Zheng",NA,NA
+"35",19,"4-F-1',4',6'-3Cl-sucrose","ClC1C(O)[C@@](OC1CCl)(OC1OC(CO)C(F)C(O)C1O)CCl","86172-55-6","100000",60000,4.78,"Gao",NA,NA
+"37",20,"4-O-n-propyl glycosides DHC","O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OCCC)cc2)c(O)c1","19361-37-6","200000",2e+05,5.3,"Yang",NA,NA
+"38",21,"4?,10?-dimethyl-1,2,3,4,5,10-hexahydrofluorene-4?,6?-dicarboxylic acid","O[C@@]1([C@@H]2[C@](CCC[C@]2(c2c1cccc2)C)(C(O)=O)C)C(O)=O","35334-54-4","130000-180000",155000,5.19,"Spillane 293",NA,NA
+"39",22,"6'-Cl-sucrose","ClCC1O[C@](OC2OC(CO)C(O)C(O)C2O)(CO)C(O)C1O","50270-99-0","2000",2000,3.3,"Gao",NA,NA
+"41",23,"6,1',6'-3Cl-sucrose","ClCC1OC(O[C@@]2(OC(CCl)C(O)C2O)CCl)C(O)C(O)C1O","40631-75-2","2500",2500,3.4,"Gao",NA,NA
+"42",24,"6-chloro-tryptophan","Clc1c2c([nH]cc2CC(N)C(O)=O)ccc1","52448-14-3","100000",1e+05,5,"Spillane 213",NA,NA
+"43",25,"D-tagatose","OC(C(O)C(=O)CO)C(O)CO","87-81-0","92",92,1.96,"Spillane 186",NA,NA
+"44",26,"DHQ-3-SIFA-4'-methyl ether","O1c2c(C(=O)C(OC(=O)C)C1c1cc(O)c(OC)cc1)c(O)cc(O)c2","63109-32-0","40000",40000,4.6,"Yang",NA,NA
+"45",27,"liquiritin","O1C(CO)C(O)C(O)C(O)C1Oc1ccc(cc1)C1Oc2c(ccc(O)c2)C(=O)C1","551-15-5","25000",25000,4.4,"Yang",NA,NA
+"46",28,"N-Acetyl-D-glucosamine","OC(C(NC(=O)C)C=O)C(O)C(O)CO","7512-17-6","55",55,1.74,"Yang",NA,NA
+"47",29,"Periandrin I","O1[C@@H](OC2CC[C@]3([C@@H](CC[C@]4([C@@H]3CC[C@@H]3C5=C[C@](CC[C@]5(CC[C@@]34C)C)(C(O)=O)C)C)C2(C)C)C=O)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O",NA,"8500",8500,3.93,"Yang",NA,NA
+"48",30,"Periandrin II","O1[C@@H](OC2CC[C@]3([C@@H](CC[C@]4([C@@H]3CC=C3[C@@H]5C[C@](CC[C@]5(CC[C@@]34C)C)(C(O)=O)C)C)C2(C)C)C=O)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O",NA,"10000",10000,4,"Yang",NA,NA
+"49",31,"Periandrin III","O1C(C(O)=O)C(O)C(O)C(OC2OC(C(O)=O)C(O)C(O)C2O)C1OC1CC[C@]2(C(CC[C@@]3(C2CCC2C4=C[C@@](CC[C@@]4(CC[C@@]23C)C)(C(O)=O)C)C)C1(C)C)CO",NA,"10000",10000,4,"Yang",NA,NA
+"50",32,"Periandrin IV","O1C(C(O)=O)C(O)C(O)C(OC2OC(C(O)=O)C(O)C(O)C2O)C1OC1CC[C@]2(C(CC[C@@]3(C2CC=C2C4C[C@@](CC[C@@]4(CC[C@@]23C)C)(C(O)=O)C)C)C1(C)C)CO",NA,"10000",10000,4,"Yang",NA,NA
+"51",33,"abrusoside B","O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1C(OC)=O","125002-98-4","10000",10000,4,"Kinghorn",NA,NA
+"52",34,"abrusoside C","O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1CO","125002-99-5","5000",5000,3.7,"Kinghorn",NA,NA
+"53",35,"abrusoside D","O1[C@H](OC2CC[C@@]34[C@@H](CC[C@H]5[C@@]3(CC[C@]3(C)[C@]5(CC[C@@H]3C(C)[C@@H]3OC(=O)C(=CC3)C)C)C4)[C@]2(C(O)=O)C)C(O[C@H]2OC(CO)C(O)C(O)C2O)C(O)C(O)C1C(O)=O","125003-00-1","7500",7500,3.88,"Kinghorn",NA,NA
+"54",36,"acesulfame potassium_CH3CH2CH2_CH3","S1(OC(C)=C(CCC)C(=O)N1)(=O)=O",NA,"3000",3000,3.48,"Yang",NA,NA
+"55",37,"acesulfame potassium_CH3CH2_CH3","S1(OC(C)=C(CC)C(=O)N1)(=O)=O",NA,"25000",25000,4.4,"Yang",NA,NA
+"56",38,"acesulfame potassium_CH3CH2_H","S1(OC=C(CC)C(=O)N1)(=O)=O",NA,"2000",2000,3.3,"Yang",NA,NA
+"57",39,"acesulfame potassium_CH3_CH3","S1(OC(C)=C(C)C(=O)N1)(=O)=O",NA,"13000",13000,4.11,"Yang",NA,NA
+"58",40,"acesulfame potassium_CH3_H","S1(OC=C(C)C(=O)N1)(=O)=O",NA,"2000",2000,3.3,"Yang",NA,NA
+"59",41,"acesulfame potassium_H_CH3","S1(OC(=CC(=O)N1)C)(=O)=O",NA,"15600",15600,4.19,"Yang",NA,NA
+"60",42,"acesulfame potassium_H_CH3CH2","S1(OC(=CC(=O)N1)CC)(=O)=O",NA,"15000",15000,4.18,"Yang",NA,NA
+"61",43,"acesulfame potassium_H_H","S1(OC=CC(=O)N1)(=O)=O",NA,"1000",1000,3,"Yang",NA,NA
+"62",44,"albiziasaponin B","O1C(COC2OCC(O)C(O)C2O)C(O)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1OC1CC[C@]2(C(CC[C@@]3(C2CC=C2C4[C@@]5(CC(OC5=O)C(C4)(C)C)C(O)C[C@@]23C)C)C1(C)C)C","164178-25-0","60000",60000,4.78,"Spillane 294",NA,NA
+"63",45,"ammonium glycyrrhizinate","O1[C@H](OC2CC[C@@]3([C@@H]4[C@](CC[C@H]3C2(C)C)(C)[C@]2(CC[C@]3([C@H](C2=CC4=O)C[C@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O.N","53956-04-0","20000",20000,4.3,"Yang",NA,NA
+"64",46,"arabinose","OC(C(O)CO)C(O)C=O","147-81-9","69",69,1.84,"Yang",NA,NA
+"65",47,"asp 1","Fc1ccc(cc1)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.57,"Iwamura",NA,NA
+"66",48,"asp 10","OC(=O)CC(N)C(=O)NC(CCCCC)C",NA,NA,NA,3.43,"Iwamura",NA,NA
+"67",49,"asp 100","O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)CC",NA,NA,NA,3.48,"Iwamura",NA,NA
+"68",50,"asp 101","O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)CC",NA,NA,NA,3.38,"Iwamura",NA,NA
+"69",51,"asp 102","O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)CC",NA,NA,NA,3.38,"Iwamura",NA,NA
+"70",52,"asp 103","O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)CC",NA,NA,NA,3.4,"Iwamura",NA,NA
+"71",53,"asp 104","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C(O)C",NA,NA,NA,2.48,"Iwamura",NA,NA
+"72",54,"asp 105","O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(O)C",NA,NA,NA,3.21,"Iwamura",NA,NA
+"73",55,"asp 106","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C(C)C",NA,NA,NA,3.58,"Iwamura",NA,NA
+"74",56,"asp 107","O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(C)C",NA,NA,NA,3.6,"Iwamura",NA,NA
+"75",57,"asp 108","O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C(C)C",NA,NA,NA,3.1,"Iwamura",NA,NA
+"76",58,"asp 109","O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)C(C)C",NA,NA,NA,3.22,"Iwamura",NA,NA
+"77",59,"asp 11","OC(=O)CC(N)C(=O)NC(CCC(C)C)C",NA,NA,NA,3.54,"Iwamura",NA,NA
+"78",60,"asp 110","O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)C(C)C",NA,NA,NA,3.06,"Iwamura",NA,NA
+"79",61,"asp 112","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CCC",NA,NA,NA,2.66,"Iwamura",NA,NA
+"80",62,"asp 12","OC(=O)CC(N)C(=O)NC(CCCCC)C",NA,NA,NA,3.56,"Iwamura",NA,NA
+"81",63,"asp 122","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,2.91,"Iwamura",NA,NA
+"82",64,"asp 123","O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,3.53,"Iwamura",NA,NA
+"83",65,"asp 124","O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,3.43,"Iwamura",NA,NA
+"84",66,"asp 125","O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,3.65,"Iwamura",NA,NA
+"85",67,"asp 126","O(C(=O)C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,3.81,"Iwamura",NA,NA
+"86",68,"asp 128","O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)CC",NA,NA,NA,3.16,"Iwamura",NA,NA
+"87",69,"asp 129","O(C(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.84,"Iwamura",NA,NA
+"88",70,"asp 13","OC(=O)CC(N)C(=O)NC(CCC(C)C)C",NA,NA,NA,3.85,"Iwamura",NA,NA
+"89",71,"asp 130","O(C(CC)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.6,"Iwamura",NA,NA
+"90",72,"asp 131","O(C(C)(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.68,"Iwamura",NA,NA
+"91",73,"asp 132","O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)C1CCCCC1",NA,NA,NA,2.64,"Iwamura",NA,NA
+"92",74,"asp 133","O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)CC",NA,NA,NA,2.88,"Iwamura",NA,NA
+"93",75,"asp 134","O(C(CC)C)C(=O)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.73,"Iwamura",NA,NA
+"94",76,"asp 135","O(C(C)(C)C)C(=O)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.36,"Iwamura",NA,NA
+"95",77,"asp 136","O(C(CC)CC)C(=O)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.6,"Iwamura",NA,NA
+"96",78,"asp 137","O(C(CCC)C)C(=O)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.68,"Iwamura",NA,NA
+"97",79,"asp 138","O(C(=O)CCNC(=O)C(N)CC(O)=O)C1CCCC1",NA,NA,NA,3.16,"Iwamura",NA,NA
+"98",80,"asp 139","O(C(=O)CCNC(=O)C(N)CC(O)=O)C1CCCCC1",NA,NA,NA,3.22,"Iwamura",NA,NA
+"99",81,"asp 14","O(CCC(NC(=O)C(N)CC(O)=O)C)CC",NA,NA,NA,3.14,"Iwamura",NA,NA
+"100",82,"asp 140","O(C(C)C)C(=O)C(CNC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.18,"Iwamura",NA,NA
+"101",83,"asp 141","O(C(C)(C)C)C(=O)C(CNC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.51,"Iwamura",NA,NA
+"102",84,"asp 142","O(C(=O)C(CNC(=O)C(N)CC(O)=O)C)C1CCCC1",NA,NA,NA,2.88,"Iwamura",NA,NA
+"103",85,"asp 143","O(C(=O)C(CNC(=O)C(N)CC(O)=O)C)C1CCCCC1",NA,NA,NA,2.94,"Iwamura",NA,NA
+"104",86,"asp 15","OC(=O)CC(N)C(=O)NC(CCCCCC)C",NA,NA,NA,3.17,"Iwamura",NA,NA
+"105",87,"asp 153","O(C(=O)CC(NC(=O)C(N)CC(O)=O)C)C",NA,NA,NA,2.43,"Iwamura",NA,NA
+"106",88,"asp 154","O(C(=O)CCNC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.11,"Iwamura",NA,NA
+"107",89,"asp 155","O(C(C)C)C(=O)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.7,"Iwamura",NA,NA
+"108",90,"asp 156","O(C(=O)CC(NC(=O)C(N)CC(O)=O)C(OC)=O)CC",NA,NA,NA,2.6,"Iwamura",NA,NA
+"109",91,"asp 157","O(C(C)(C)C)C(=O)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,3.3,"Iwamura",NA,NA
+"110",92,"asp 159","O(C(=O)C(NC(=O)C(N)CC(O)=O)CC)C",NA,NA,NA,3.04,"Iwamura",NA,NA
+"111",93,"asp 16","OC(=O)CC(N)C(=O)NC(Cc1ccccc1)CC",NA,NA,NA,2.89,"Iwamura",NA,NA
+"112",94,"asp 160","O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)C",NA,NA,NA,3.49,"Iwamura",NA,NA
+"113",95,"asp 161","O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CC",NA,NA,NA,3.92,"Iwamura",NA,NA
+"114",96,"asp 163","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.96,"Iwamura",NA,NA
+"115",97,"asp 164","O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CCCC",NA,NA,NA,3.75,"Iwamura",NA,NA
+"116",98,"asp 165","O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)CC(C)C",NA,NA,NA,4.21,"Iwamura",NA,NA
+"117",99,"asp 166","O(C(=O)C(NC(=O)C(N)CC(O)=O)CO)C1CCCCC1",NA,NA,NA,3.72,"Iwamura",NA,NA
+"118",100,"asp 167","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)C",NA,NA,NA,3.26,"Iwamura",NA,NA
+"119",101,"asp 168","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CC",NA,NA,NA,3.93,"Iwamura",NA,NA
+"120",102,"asp 169","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CCC",NA,NA,NA,4.08,"Iwamura",NA,NA
+"121",103,"asp 17","OC(=O)CC(N)C(=O)NC(Cc1ccccc1)(C)C",NA,NA,NA,3.19,"Iwamura",NA,NA
+"122",104,"asp 170","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C",NA,NA,NA,3.93,"Iwamura",NA,NA
+"123",105,"asp 171","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CCCC",NA,NA,NA,3.41,"Iwamura",NA,NA
+"124",106,"asp 172","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CC(C)C",NA,NA,NA,3.97,"Iwamura",NA,NA
+"125",107,"asp 173","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)C1CCCCC1",NA,NA,NA,3.44,"Iwamura",NA,NA
+"126",108,"asp 174","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)C",NA,NA,NA,2.71,"Iwamura",NA,NA
+"127",109,"asp 175","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CC",NA,NA,NA,2.66,"Iwamura",NA,NA
+"128",110,"asp 176","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CCC",NA,NA,NA,3.51,"Iwamura",NA,NA
+"129",111,"asp 177","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C",NA,NA,NA,2.91,"Iwamura",NA,NA
+"130",112,"asp 178","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CCCC",NA,NA,NA,3.23,"Iwamura",NA,NA
+"131",113,"asp 179","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)CC(C)C",NA,NA,NA,3.36,"Iwamura",NA,NA
+"132",114,"asp 18","OC(=O)CC(N)C(=O)NC(C(CCCCC)C)C",NA,NA,NA,3.58,"Iwamura",NA,NA
+"133",115,"asp 180","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)C)C1CCCCC1",NA,NA,NA,3.31,"Iwamura",NA,NA
+"134",116,"asp 181","O(C(=O)C(NC(=O)C(N)CC(O)=O)CC)CCC",NA,NA,NA,3.86,"Iwamura",NA,NA
+"135",117,"asp 182","O(C(=O)CNC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.68,"Iwamura",NA,NA
+"136",118,"asp 183","O(C(=O)CNC(=O)C(N)CC(O)=O)CCC",NA,NA,NA,2.98,"Iwamura",NA,NA
+"137",119,"asp 184","O(C(=O)CNC(=O)C(N)CC(O)=O)C1CCCCC1",NA,NA,NA,3.02,"Iwamura",NA,NA
+"138",120,"asp 185","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC)CCC",NA,NA,NA,3.56,"Iwamura",NA,NA
+"139",121,"asp 186","O(C(=O)C(NC(=O)C(N)CC(O)=O)C)C",NA,NA,NA,3.2,"Iwamura",NA,NA
+"140",122,"asp 187","O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CC",NA,NA,NA,3.75,"Iwamura",NA,NA
+"141",123,"asp 188","O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CCC",NA,NA,NA,4.1,"Iwamura",NA,NA
+"142",124,"asp 189","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.95,"Iwamura",NA,NA
+"143",125,"asp 19","O(C(=O)C(NC(=O)C(N)CC(O)=O)Cc1ccccc1)C",NA,NA,NA,4.11,"Iwamura",NA,NA
+"144",126,"asp 190","O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CCCC",NA,NA,NA,2.9,"Iwamura",NA,NA
+"145",127,"asp 191","O(C(=O)C(NC(=O)C(N)CC(O)=O)C)CCCCC",NA,NA,NA,2.68,"Iwamura",NA,NA
+"146",128,"asp 192","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CC",NA,NA,NA,4.15,"Iwamura",NA,NA
+"147",129,"asp 193","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(C)C",NA,NA,NA,4.15,"Iwamura",NA,NA
+"148",130,"asp 194","O(C(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)CCC",NA,NA,NA,3.43,"Iwamura",NA,NA
+"149",131,"asp 197","O(C(C)(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,4.03,"Iwamura",NA,NA
+"150",132,"asp 198","O(C(CC)CC)C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,4.79,"Iwamura",NA,NA
+"151",133,"asp 199","O(C(CC)CC)C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,5.06,"Iwamura",NA,NA
+"152",134,"asp 2","OC(=O)CC(N)C(=O)NCCC1CCCCC1",NA,NA,NA,2.85,"Iwamura",NA,NA
+"153",135,"asp 20","O(C(=O)C(NC(=O)C(N)CC(O)=O)CC1CCCCC1)C",NA,NA,NA,4.3,"Iwamura",NA,NA
+"154",136,"asp 200","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CCCC1",NA,NA,NA,4.92,"Iwamura",NA,NA
+"155",137,"asp 201","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CCCCC1",NA,NA,NA,5.14,"Iwamura",NA,NA
+"156",138,"asp 204","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CC(CCC1)C",NA,NA,NA,5.02,"Iwamura",NA,NA
+"157",139,"asp 207","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)C1CC(CC(C1)C)(C)C",NA,NA,NA,4.76,"Iwamura",NA,NA
+"158",140,"asp 208","O(C(OC(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)=O)C1CC2CC[C@]1(C)C2(C)C",NA,NA,NA,5.16,"Iwamura",NA,NA
+"159",141,"asp 209","O(C(OC(=O)C(NC(=O)C(N)CC(O)=O)C(OC)=O)=O)C1CC2CC[C@]1(C)C2(C)C",NA,NA,NA,6.79,"Iwamura",NA,NA
+"160",142,"asp 21","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCC)C",NA,NA,NA,3.49,"Iwamura",NA,NA
+"161",143,"asp 211","O(C(C)(C)C)C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O",NA,NA,NA,4.32,"Iwamura",NA,NA
+"162",144,"asp 212","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)C1CCCC1",NA,NA,NA,4.44,"Iwamura",NA,NA
+"163",145,"asp 213","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)C1CCCCC1",NA,NA,NA,4.68,"Iwamura",NA,NA
+"164",146,"asp 214","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)C1CCCCC1C",NA,NA,NA,5.09,"Iwamura",NA,NA
+"165",147,"asp 215","O(C(OC(=O)C(NC(=O)C(N)CC(O)=O)C(OCC)=O)=O)C1CC2CC[C@]1(C)C2(C)C",NA,NA,NA,6.05,"Iwamura",NA,NA
+"166",148,"asp 22","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC(C)C)C",NA,NA,NA,4.11,"Iwamura",NA,NA
+"167",149,"asp 23","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCCC)C",NA,NA,NA,3.9,"Iwamura",NA,NA
+"168",150,"asp 24","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCCCC)C",NA,NA,NA,4.07,"Iwamura",NA,NA
+"169",151,"asp 3","OC(=O)CC(N)C(=O)NC(Cc1ccccc1)C",NA,NA,NA,3.56,"Iwamura",NA,NA
+"170",152,"asp 4","OC(=O)CC(N)C(=O)NC(Cc1ccc(cc1)C)C",NA,NA,NA,2.89,"Iwamura",NA,NA
+"171",153,"asp 5","O(CC(NC(=O)C(N)CC(O)=O)C)c1ccccc1",NA,NA,NA,3.19,"Iwamura",NA,NA
+"172",154,"asp 52","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCCNOC(=O)C)C",NA,NA,NA,2.27,"Iwamura",NA,NA
+"173",155,"asp 53","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCCNOC(=O)C)C",NA,NA,NA,2.25,"Iwamura",NA,NA
+"174",156,"asp 55","O(C(=O)C(CC(NC(=O)C(N)CC(O)=O)C(OC)=O)C)C",NA,NA,NA,3.15,"Iwamura",NA,NA
+"175",157,"asp 56","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)CCC)C",NA,NA,NA,3.16,"Iwamura",NA,NA
+"176",158,"asp 57","O(C(=O)C(NC(=O)C(N)CC(O)=O)C(O)CCC)C",NA,NA,NA,2.75,"Iwamura",NA,NA
+"177",159,"asp 58","O(C(=O)CCCNC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.13,"Iwamura",NA,NA
+"178",160,"asp 6","Fc1ccc(cc1)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.5,"Iwamura",NA,NA
+"179",161,"asp 60","S(CC(NC(=O)C(N)CC(O)=O)C(OC)=O)CC",NA,NA,NA,3.6,"Iwamura",NA,NA
+"180",162,"asp 61","S(CC(NC(=O)C(N)CC(O)=O)C(OC)=O)CCC",NA,NA,NA,4.11,"Iwamura",NA,NA
+"181",163,"asp 62","S(C(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,4.23,"Iwamura",NA,NA
+"182",164,"asp 63","S(C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,4.95,"Iwamura",NA,NA
+"183",165,"asp 64","O(C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,4.15,"Iwamura",NA,NA
+"184",166,"asp 65","Oc1ccc(cc1)CC(NC(=O)C(N)CC(O)=O)C(OC)=O",NA,NA,NA,4.15,"Iwamura",NA,NA
+"185",167,"asp 66","O(C(=O)C(NC(=O)C(N)CC(O)=O)CCC(OC)=O)C",NA,NA,NA,4,"Iwamura",NA,NA
+"186",168,"asp 67","O(C(=O)C)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.28,"Iwamura",NA,NA
+"187",169,"asp 68","O(C(=O)CC)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.61,"Iwamura",NA,NA
+"188",170,"asp 69","O(C(=O)CCC)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.56,"Iwamura",NA,NA
+"189",171,"asp 7","o1cccc1CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.16,"Iwamura",NA,NA
+"190",172,"asp 70","O(C(=O)C(C)C)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,3.16,"Iwamura",NA,NA
+"191",173,"asp 71","O(C(=O)C1CC1)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,3.03,"Iwamura",NA,NA
+"192",174,"asp 72","O(C(=O)C1CCC1)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,2.99,"Iwamura",NA,NA
+"193",175,"asp 73","O(C(=O)CC(C)C)CCNC(=O)C(N)CC(O)=O",NA,NA,NA,3.36,"Iwamura",NA,NA
+"194",176,"asp 74","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.61,"Iwamura",NA,NA
+"195",177,"asp 75","O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.86,"Iwamura",NA,NA
+"196",178,"asp 76","O(C(=O)C=C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.85,"Iwamura",NA,NA
+"197",179,"asp 77","O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.58,"Iwamura",NA,NA
+"198",180,"asp 78","O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.98,"Iwamura",NA,NA
+"199",181,"asp 79","O(C(=O)C(C)=C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.99,"Iwamura",NA,NA
+"200",182,"asp 8","OC(=O)CC(N)C(=O)NC(CC1CCCCC1)C",NA,NA,NA,3.57,"Iwamura",NA,NA
+"201",183,"asp 80","O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,4.18,"Iwamura",NA,NA
+"202",184,"asp 81","O(C(=O)CCCC)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,2.6,"Iwamura",NA,NA
+"203",185,"asp 82","O(C(=O)C(CC)C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,4.08,"Iwamura",NA,NA
+"204",186,"asp 83","O(C(=O)CC(C)C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,4.08,"Iwamura",NA,NA
+"205",187,"asp 84","O(C(=O)C(C)(C)C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,4.28,"Iwamura",NA,NA
+"206",188,"asp 85","O(C(=O)C1CC1C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.68,"Iwamura",NA,NA
+"207",189,"asp 86","O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,4.24,"Iwamura",NA,NA
+"208",190,"asp 87","O(C(=O)C(CC)CC)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.53,"Iwamura",NA,NA
+"209",191,"asp 88","O(C(=O)C1CCC1C)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,4.13,"Iwamura",NA,NA
+"210",192,"asp 89","O(C(=O)C1CCCC1)CC(NC(=O)C(N)CC(O)=O)C",NA,NA,NA,3.7,"Iwamura",NA,NA
+"211",193,"asp 9","OC(=O)CC(N)C(=O)NC(CCCC)C",NA,NA,NA,3.6,"Iwamura",NA,NA
+"212",194,"asp 90","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.23,"Iwamura",NA,NA
+"213",195,"asp 91","O(C(=O)CC)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.99,"Iwamura",NA,NA
+"214",196,"asp 92","O(C(=O)C1CC1)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.96,"Iwamura",NA,NA
+"215",197,"asp 93","O(C(=O)C(C)C)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.48,"Iwamura",NA,NA
+"216",198,"asp 94","O(C(=O)CCC)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,2.58,"Iwamura",NA,NA
+"217",199,"asp 95","O(C(=O)C1CCC1)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.71,"Iwamura",NA,NA
+"218",200,"asp 96","O(C(=O)CC(C)C)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.3,"Iwamura",NA,NA
+"219",201,"asp 97","O(C(=O)C(CC)C)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,3.21,"Iwamura",NA,NA
+"220",202,"asp 98","O(C(=O)C1CCCC1)CC(NC(=O)C(N)CC(O)=O)CO",NA,NA,NA,2.92,"Iwamura",NA,NA
+"221",203,"asp 99","O(C(=O)C)CC(NC(=O)C(N)CC(O)=O)CC",NA,NA,NA,3.16,"Iwamura",NA,NA
+"222",204,"aspartame-acesulfame salt","S1(OC(=CC(=O)N1)C)(=O)=O.O(C(=O)C(NC(=O)C(N)CC(O)=O)Cc1ccccc1)C","106372-55-8","35000",35000,4.54,"Spillane 188",NA,NA
+"223",205,"aspartame","O(C(=O)C(NC(=O)C(N)CC(O)=O)Cc1ccccc1)C","22839-47-0","20000",17675,4.25,"Spillane 188",NA,NA
+"227",206,"baiyunoside","O1[C@@H](OC2CC[C@@]3([C@H](CCC(C)=C3CCc3ccoc3)C2(C)C)C)C(O[C@@H]2OCC(O)C(O)C2O)C(O)C(O)C1CO","86450-75-1","50000",50000,4.7,"Spillane 209",NA,NA
+"229",207,"benzenepropanoic acid","Brc1c(CCC(O)=O)c(Br)cc(Br)c1C(=O)N","83872-09-7","400000",4e+05,5.6,"Spillane 213",NA,NA
+"230",208,"bernardame","OC(=O)CN/C(=N/c1ccc(cc1)C#N)/NCc1cc(ccc1)C","180045-76-5","20000000",2e+07,7.3,"Spillane 213",NA,NA
+"231",209,"calcium cyclamate","[CaH2].S(O)(=O)(=O)NC1CCCCC1.S(O)(=O)(=O)NC1CCCCC1","139-06-0","3333.33",3333.33,3.52,"Yang",NA,NA
+"232",210,"calcium saccharin","[CaH2].S1(=O)(=O)NC(=O)c2c1cccc2.S1(=O)(=O)NC(=O)c2c1cccc2","6485-34-3","50000",50000,4.7,"Yang",NA,NA
+"233",211,"cyclamate","S(O)(=O)(=O)NC1CCCCC1","100-88-9","3000",3000,3.48,"Spillane 189",NA,NA
+"234",212,"cyclocarioside A","O1C(COC(=O)C)C(O)C(O)C1OC1CC[C@]2(C(CC[C@@]3(C2CC(OC2OC(C)C(O)C(O)C2O)C2[C@@]3(CCC2[C@@]2(OC(CC2)C(O)(C)C)C)C)C)C1(C)C)C","146109-34-4","20000",20000,4.3,"Spillane 294",NA,NA
+"235",213,"disodium glycyrrhizinate","[NaH].[NaH].O1[C@@H](OC2CC[C@]3([C@H]4[C@@](CC[C@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@@H](C2=CC4=O)C[C@@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)","71277-79-7","20000",20000,4.3,"Yang",NA,NA
+"236",214,"dulcin","O(CC)c1ccc(NC(=O)N)cc1","150-69-6","20000",20000,4.3,"Spillane 213",NA,NA
+"237",215,"dulcoside A","O1C(C)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@@]12CCC3[C@](CC1=C)(C2)CCC1[C@@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1O)=O)C)CO","64432-06-0","5000-12000",8500,3.93,"Spillane 212",NA,NA
+"238",216,"erythritol","OC(C(O)CO)CO","149-32-6","53-70",63.25,1.8,"Spillane 159",NA,NA
+"240",217,"fructose","OC(C(O)C(=O)CO)C(O)CO","57-48-7","120",143.33,2.16,"Spillane 253",NA,NA
+"243",218,"fucose","OC(C(O)C(O)C)C(O)C=O","2438-80-4","69",69,1.84,"Yang",NA,NA
+"244",219,"galactitol","OC(C(O)C(O)CO)C(O)CO","608-66-2","58",58,1.76,"Yang",NA,NA
+"245",220,"galactose","OC(C(O)C(O)C=O)C(O)CO","59-23-4","65",65,1.81,"Spillane 253",NA,NA
+"246",221,"gaudichaudioside A","O1CC(O)C(O)C(O)C1OC1CC(C=O)=C(CC\C(=C\CO)\C)[C@]2(C1[C@](CCC2)(CO)C)C","138797-27-0","5500",5500,3.74,"Kinghorn",NA,NA
+"247",222,"glucose","OC(C(O)C(O)C=O)C(O)CO","50-99-7","60",60.33,1.78,"Spillane 253",NA,NA
+"250",223,"glycyrrhizin","O1[C@@H](OC2CC[C@@]3([C@@H]4[C@@](CC[C@H]3C2(C)C)(C)[C@]2(CC[C@]3([C@H](C2=CC4=O)C[C@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O)=O","1405-86-3","5000-10000",9062.5,3.96,"Spillane 209",NA,NA
+"254",224,"hematoxylin","O1c2c([C@H]3c4cc(O)c(O)cc4C[C@]3(O)C1)ccc(O)c2O","517-28-2","12000",12000,4.08,"Spillane 295",NA,NA
+"255",225,"hesperinin glucoside DHC","O1C(CO)C(O)C(O)C(O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OC)cc2)c(O)c1","21940-36-3","10000",10000,4,"Yang",NA,NA
+"256",226,"homoeohesperidin DHC","O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OCC)cc2)c(O)c1","19282-00-9","100000",1e+05,5,"Yang",NA,NA
+"257",227,"isomalt","O1C(CO)C(O)C(O)C(O)C1OCC(O)C(O)C(O)C(O)CO","64519-82-0","45-60",53.75,1.73,"Spillane159",NA,NA
+"259",228,"isomaltulose","O1C(CO)C(O)C(O)C(O)C1OCC(O)C(O)C(O)C(=O)CO","13718-94-0","50",47.5,1.68,"Spillane 253",NA,NA
+"261",229,"isovanillic 1","O1CC(Cc2c1cccc2)c1cc(O)c(OC)cc1",NA,"20000",20000,4.3,"Spillane 332",NA,NA
+"262",230,"isovanillic 10","S1c2c(CCC1c1cc(O)c(OC)cc1)cccc2",NA,"20000",20000,4.3,"Spillane 332",NA,NA
+"263",231,"isovanillic 11","S1Cc2c(SC1c1cc(O)c(OC)cc1)cccc2",NA,"1000000",1e+06,6,"Spillane 332",NA,NA
+"264",232,"isovanillic 12","S1c2c(SCC1c1cc(O)c(OC)cc1)cccc2",NA,"45000",45000,4.65,"Spillane 332",NA,NA
+"265",233,"isovanillic 13","O1c2c(C(=O)C(OC(=O)C)C1c1cc(O)c(OC)cc1)c(O)cc(O)c2",NA,"50000",50000,4.7,"Spillane 332",NA,NA
+"266",234,"isovanillic 15","S1c2c(COC1c1cc(O)c(O)cc1)cccc2",NA,"20000",20000,4.3,"Spillane 332",NA,NA
+"267",235,"isovanillic 16","S1c2c(COC1c1cc(O)ccc1)cccc2",NA,"10000",10000,4,"Spillane 332",NA,NA
+"268",236,"isovanillic 17","S1(=O)(=O)CC(Oc2c1cccc2)c1cc(O)c(OC)cc1",NA,"5000",5000,3.7,"Spillane 332",NA,NA
+"269",237,"isovanillic 18","O(C)c1ccc(cc1O)C(Oc1ccccc1)O",NA,"15000",15000,4.18,"Spillane 332",NA,NA
+"270",238,"isovanillic 19","S1CC(Oc2c1cc(O)cc2)c1cc(O)c(OC)cc1",NA,"50000",50000,4.7,"Spillane 332",NA,NA
+"271",239,"isovanillic 2","O1Cc2c(CC1c1cc(O)c(OC)cc1)cccc2",NA,"35000",35000,4.54,"Spillane 332",NA,NA
+"272",240,"isovanillic 20","O(C)c1ccc(cc1O)CCC(=O)c1c(O)cc(O)cc1O",NA,"66500",66500,4.82,"Spillane 332",NA,NA
+"273",241,"isovanillic 21","O(C)c1ccc(cc1O)CCC(=O)c1cc(ccc1)C(O)=O",NA,"8000",8000,3.9,"Spillane 332",NA,NA
+"274",242,"isovanillic 22","S1c2c(SC1c1cc(O)c(OC)cc1)cccc2",NA,"20000",20000,4.3,"Spillane 332",NA,NA
+"275",243,"isovanillic 23","S1c2c(OC1c1cc(O)c(OC)cc1)cccc2",NA,"30000",30000,4.48,"Spillane 332",NA,NA
+"276",244,"isovanillic 24","O1c2cc(O)c(O)cc2C2c3c(OC[C@@]12O)c(O)c(O)cc3",NA,"12000",12000,4.08,"Spillane 334",NA,NA
+"277",245,"isovanillic 25","O1c2cc(OC)ccc2C2c3c(OC[C@@]12O)cccc3",NA,"10000",10000,4,"Spillane 334",NA,NA
+"278",246,"isovanillic 26","O(C)c1cc2CCC3C4CCC[C@]4(CCC3c2cc1O)C",NA,"5000",5000,3.7,"Spillane 334",NA,NA
+"279",247,"isovanillic 3","O1c2c(CCC1c1cc(O)c(OC)cc1)cccc2",NA,"35000",35000,4.54,"Spillane 332",NA,NA
+"280",248,"isovanillic 4","O1c2c(OCC1c1cc(O)c(OC)cc1)cccc2",NA,"45000",45000,4.65,"Spillane 332",NA,NA
+"281",249,"isovanillic 6","S1Cc2c(OC1c1cc(O)c(OC)cc1)cccc2",NA,"50000",50000,4.7,"Spillane 332",NA,NA
+"282",250,"isovanillic 7","S1CC(Oc2c1cccc2)c1cc(O)c(OC)cc1",NA,"25000",25000,4.4,"Spillane 332",NA,NA
+"283",251,"isovanillic 9","S1c2c(OCC1c1cc(O)c(OC)cc1)cccc2",NA,"200000",2e+05,5.3,"Spillane 332",NA,NA
+"284",252,"lactitol","O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(O)CO)C(O)CO","585-86-4","30-40",35,1.54,"Spillane 159",NA,NA
+"286",253,"lactose","O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(O)C=O)C(O)CO","63-42-3","25",25,1.4,"Spillane 253",NA,NA
+"287",254,"lactulose","O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(=O)CO)C(O)CO","4618-18-2","50",50,1.7,"Spillane 253",NA,NA
+"288",255,"leucrose","O1C(CO)C(O)C(O)C(O)C1OC(C(O)C(O)C(=O)CO)CO","7158-70-5","50",50,1.7,"Spillane 253",NA,NA
+"289",256,"lugduname","O1c2c(OC1)cccc2C\N=C(\Nc1ccc(cc1)C#N)/NCC(O)=O","180045-75-4","22500000",22500000,7.35,"Spillane 213",NA,NA
+"290",257,"maltitol","O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(O)CO)C(O)CO","585-88-6","85-95",87.5,1.94,"Spillane159",NA,NA
+"292",258,"maltose","O1C(CO)C(O)C(O)C(O)C1O[C@@H](C(O)C(O)C=O)C(O)CO","69-79-4","35",39,1.59,"Spillane 253",NA,NA
+"294",259,"mannitol","OC(C(O)C(O)CO)C(O)CO","69-65-8","50",50,1.7,"Spillane 159",NA,NA
+"296",260,"mannose","O1C(CO)C(O)C(O)C(O)C1O","3458-28-4","52.5",52.5,1.72,"Yang",NA,NA
+"297",261,"mogroside II","O1C(CO)C(O)C(O)C(O)C1OC(C(O)(C)C)CCC(C)[C@H]1CC[C@]2([C@@H]3CC=C4[C@H](CCC(O[C@H]5OC(CO)C(O)C(O)C5O)C4(C)C)[C@]3(C)C(O)C[C@@]12C)C","88901-38-6","8400",8400,3.92,"Yang",NA,NA
+"298",262,"mogroside IV","O1C(CO)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@@H](CCC(O[C@@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(O)C5O)C4(C)C)[C@]","89590-95-4","23300-39200",31250,4.49,"Spillane 210",NA,NA
+"299",263,"mogroside V","O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@]2([C@@H]3CC=C4[C@H](CCC(O[C@H]5OC(COC6OC(CO)C(O)C(O)C6O)C(O)C(","88901-36-4","25000-42500",33750,4.53,"Spillane 210",NA,NA
+"301",264,"naringin DHC","O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2ccc(O)cc2)c(O)c1","18916-17-1","10000",10000,4,"Yang",NA,NA
+"302",265,"neoeriocitrin DHC","O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(O)cc2)c(O)c1","65520-51-6","10000",10000,4,"Yang",NA,NA
+"303",266,"neohesperidin DHC","O1C(CO)C(O)C(O)C(O[C@H]2OC(C)C(O)C(O)C2O)C1Oc1cc(O)c(C(=O)CCc2cc(O)c(OC)cc2)c(O)c1","20702-77-6","40000-60000",110000,5.04,"Spillane 189",NA,NA
+"306",267,"neotame","O(C(=O)C(NC(=O)C(NCCC(C)(C)C)CC(O)=O)Cc1ccccc1)C","165450-17-9","1000000",777800,5.89,"Spillane 190",NA,NA
+"308",268,"osladin","O1C(CO)C(O)C(O)C(OC2OC(C)C(O)C(O)C2O)C1OC1CC2[C@@](C3C(CC2=O)C2CCC(C(C)C4OC(OC5OC(C)C(O)C(O)C5O)C(CC4)C)[C@@]2(CC3)C)(CC1)C","33650-66-7","30000-50000",45000,4.65,"Spillane 211",NA,NA
+"310",269,"pentadin","Cl\C(=C(/Cl)\C(\Cl)=C(\Cl)/Cl)\C(O)=O.[NaH]","61391-05-7","50000",50000,4.7,"Spillane 211",NA,NA
+"311",270,"phyllodulcin_1","O1C(Cc2c(C1=O)c(O)ccc2)c1cc(O)c(OC)cc1",NA,"70000",70000,4.85,"Yang",NA,NA
+"312",271,"phyllodulcin_11","O(C)c1ccc(NCc2ccccc2)cc1O",NA,"25000",25000,4.4,"Yang",NA,NA
+"313",272,"phyllodulcin_2","O1C(Cc2c(cccc2)C1=O)c1cc(O)c(OC)cc1",NA,"10000",10000,4,"Yang",NA,NA
+"314",273,"phyllodulcin_4","O1c2c(C(=O)CC1c1cc(O)c(OC)cc1)c(O)ccc2",NA,"35000",35000,4.54,"Yang",NA,NA
+"315",274,"phyllodulcin_5","O1c2c(C(=O)CC1c1cc(O)c(OCC)cc1)c(O)ccc2",NA,"15000",15000,4.18,"Yang",NA,NA
+"316",275,"phyllodulcin_6","O1C(Oc2c(cccc2)C1=O)c1cc(O)c(OC)cc1",NA,"10000",10000,4,"Yang",NA,NA
+"317",276,"phyllodulcin_7","S1c2c(cccc2)C(OC1c1cc(O)c(OC)cc1)=O",NA,"30000",30000,4.48,"Yang",NA,NA
+"318",277,"phyllodulcin_8","O(C)c1ccc(cc1O)CCc1ccccc1",NA,"30000",30000,4.48,"Yang",NA,NA
+"319",278,"polypodoside A","O1[C@H](OC2CC[C@]3([C@H](C2)C(=O)C=C2[C@H]4CC[C@H](C(C)[C@@H]5OC(O[C@H]6OC(C)C(O)C(O)C6O)C(CC5)C)[C@@]4(CC[C@H]23)C)C)C(O[C@H]2OC(C)C(O)C(O)C2O)C(O)C(O)C1CO","119784-25-7","60000",60000,4.78,"Spillane 211",NA,NA
+"320",279,"potassium glycyrrhizinate","[KH].O1[C@H](OC2CC[C@@]3([C@H]4[C@@](CC[C@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@H](C2=CC4=O)C[C@@](CC3)(C(O)=O)C)C)C)C)C(O[C@H]2OC(C(O)=O)C(O)C(O)C2O)C(O)C(O)C1C(O","68039-19-0","50000",50000,4.7,"Yang",NA,NA
+"321",280,"potassium saccharin","[KH].S1(=O)(=O)NC(=O)c2c1cccc2","10332-51-1","50000",50000,4.7,"Yang",NA,NA
+"322",281,"prunin DHC","O1C(CO)C(O)C(O)C(O)C1Oc1cc(O)c(C(=O)CCc2ccc(O)cc2)c(O)c1","4192-90-9","4000",4000,3.6,"Yang",NA,NA
+"323",282,"psicose","O1CC(O)C(O)C(O)[C@]1(O)CO","551-68-8","70",70,1.85,"Yang",NA,NA
+"324",283,"pterocaryoside A","O1[C@@H](OC2[C@@H]3[C@](CC[C@H]3[C@](O)(C\C=C\C(O)(C)C)C)(C)[C@]3([C@H](C2)[C@@](CCC(O)=O)(C)C(CC3)C(C)=C)C)C(O)C(O)C(O)C1C","168146-85-8","5000-10000",6250,3.8,"Spillane 212",NA,NA
+"326",284,"pterocaryoside B","O1CC(O)C(O)C(O)[C@@H]1OC1[C@@H]2[C@@](CC[C@@H]2[C@@](O)(C\C=C\C(O)(C)C)C)(C)[C@]2([C@@H](C1)[C@@](CCC(O)=O)(C)C(CC2)C(C)=C)C","168146-27-8","5000-10000",7500,3.88,"Spillane 212",NA,NA
+"327",285,"raffinose","O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O)C1O[C@@]1(OC(CO)C(O)C1O)CO","512-69-6","25",25,1.4,"Yang",NA,NA
+"328",286,"rebaudioside A","O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@H]2CC[C@@]34[C@H](CC[C@](O[C@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)","58543-16-1","35000",29600,4.47,"Spillane 212",NA,NA
+"330",287,"rebaudioside B","O1[C@H](OC2C(O)C(O[C@@H](O[C@]34CC[C@H]5[C@@](CC3=C)(C4)CC[C@@H]3[C@](CCC[C@]35C)(C(O)=O)C)C2O[C@H]2OC(CO)C(O)C(O)C2O)CO)C(O)C(O)C(O)C1CO","58543-17-2","30000-35000",32500,4.51,"Spillane 212",NA,NA
+"331",288,"rebaudioside C","O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@H]2CC[C@@]34[C@H](CC[C@@](O[C@H]5OC(CO)C(O)C(O[C@@H]6OC(CO)C(O)C(O)C6O)C5O[C@@H]5OC(C)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC","63550-99-2","5000-12000",8500,3.93,"Spillane 212",NA,NA
+"332",289,"rebaudioside D","O1C(CO)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(=O)[C@@]1([C@@H]2CC[C@@]34[C@@H](CC[C@](O[C@@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@H]5OC(CO)C(O)C(O)C5","63279-13-0","25000-40000",32500,4.51,"Spillane 212",NA,NA
+"333",290,"rebaudioside E","O1C(CO)C(O)C(O)C(O)C1OC1C(O)C(O)C(OC1O[C@]12CCC3[C@](CC1=C)(C2)CCC1[C@](CCC[C@]13C)(C(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)=O)C)CO","63279-14-1","15000-30000",22500,4.35,"Spillane 212",NA,NA
+"334",291,"rebaudioside F","O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@]1([C@@H]2CC[C@@]34[C@@H](CC[C@@](O[C@H]5OC(CO)C(O)C(O[C@H]6OC(CO)C(O)C(O)C6O)C5O[C@H]5OCC(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)","438045-89-7","11250",11250,4.05,"Yang",NA,NA
+"335",292,"rhamnose","O1C(C)C(O)C(O)C(O)C1O","3615-41-6","31.65",31.65,1.5,"Yang",NA,NA
+"336",293,"ribose","OC(C(O)CO)C(O)C=O","50-69-1","70",70,1.85,"Yang",NA,NA
+"337",294,"rubusoside","O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@@H]2CC[C@]34[C@@H](CC[C@@](O[C@@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C","64849-39-4","11400",11400,4.06,"Spillane 212",NA,NA
+"338",295,"saccharin","S1(=O)(=O)NC(=O)c2c1cccc2","81-07-2","30000",37500,4.57,"Spillane 191",NA,NA
+"340",296,"selligueain A","O1c2c(CC(O)C1c1ccc(O)cc1)c(O)cc(O)c2C1c2c(OC(C1O)c1ccc(O)cc1)c1[C@@H]3c4c(O[C@@](Oc1cc2O)([C@H]3O)c1ccc(O)cc1)cc(O)cc4O","152378-18-2","3500",3500,3.54,"Spillane 295",NA,NA
+"341",297,"siamenoside I","O1C(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C(O[C@H]2OC(CO)C(O)C(O)C2O)C1OC(C(O)(C)C)CCC(C)[C@@H]1CC[C@@]2([C@@H]3CC=C4[C@@H](CCC(O[C@H]5OC(CO)C(O)C(O)C5O)C4(C)C)[C@]3","126105-12-2","56000",56000,4.75,"Yang",NA,NA
+"342",298,"sodium cyclamate","S(O)(=O)(=O)NC1CCCCC1.[NaH]","139-05-9","3000",2933.33,3.47,"Wilson 23",NA,NA
+"345",299,"sodium saccharin","S1(=O)(=O)NC(=O)c2c1cccc2.[NaH]","128-44-9","30000",30000,4.48,"Wilson 23",NA,NA
+"346",300,"sorbitol","OC(C(O)C(O)CO)C(O)CO","50-70-4","50-60",57.5,1.76,"Spillane 159",NA,NA
+"348",301,"sorbose","OC(C(O)C(=O)CO)C(O)CO","87-79-6","60",60,1.78,"Spillane 253",NA,NA
+"349",302,"stachyose","O1C(COC2OC(COC3OC(CO)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C(O)C1O[C@@]1(OC(CO)C(O)C1O)CO","470-55-3","22",22,1.34,"Yang",NA,NA
+"350",303,"steviolbioside","O1[C@@H](OC2[C@H](OC(CO)C(O)C2O)O[C@@]23CC[C@@H]4[C@@](CC2=C)(C3)CC[C@H]2[C@@](CCC[C@]24C)(C(O)=O)C)C(O)C(O)C(O)C1CO","41093-60-1","10000-12500",11250,4.05,"Spillane 212",NA,NA
+"351",304,"stevioside","O1C(CO)C(O)C(O)C(O)C1OC(=O)[C@@]1([C@@H]2CC[C@]34[C@H](CC[C@@](O[C@@H]5OC(CO)C(O)C(O)C5O[C@H]5OC(CO)C(O)C(O)C5O)(C3)C(C4)=C)[C@@]2(CCC1)C)C","57817-89-7","21000",18666.67,4.27,"Spillane 293",NA,NA
+"354",305,"sucralose","ClC1C(O)C(O)C(OC1CO)O[C@@]1(OC(CCl)C(O)C1O)CCl",NA,"60000",60000,4.78,"Spillane 192",NA,NA
+"355",306,"sucrononic acid","OC(=O)CN/C(=N\c1ccc(cc1)C#N)/NC1CCCCCCCC1","116869-55-7","20000000",2e+07,7.3,"Spillane 213",NA,NA
+"356",307,"sucrose","O1C(CO)C(O)C(O)C(O)C1O[C@@]1(OC(CO)C(O)C1O)CO","57-50-1","100",100,2,"Spillane 159",NA,NA
+"357",308,"suosan","[NaH].OC(=O)CCNC(=O)Nc1ccc([N+](=O)[O-])cc1","140-46-5","35000",35000,4.54,"Spillane 213",NA,NA
+"358",309,"superaspartame","O(C(=O)C(NC(=O)C(NC(=O)Nc1ccc(cc1)C#N)CC(O)=O)Cc1ccccc1)C","135507-50-5","1400000",1400000,6.15,"Spillane 213",NA,NA
+"359",310,"tagatose","OC(C(O)C(=O)CO)C(O)CO","17598-81-1","90",90,1.95,"Spillane 253",NA,NA
+"360",311,"taxifolin 3-acetate","O1c2c(C(=O)C(OC(=O)C)C1c1cc(O)c(O)cc1)c(O)cc(O)c2","78834-97-6","8000",8000,3.9,"Yang",NA,NA
+"361",312,"telosmoside A","O1[C@@H](OC2C(O[C@H](OC3C(O[C@@H](OC4CC[C@@]5([C@H](C4)CC[C@H]4[C@@H]5CC(OC(=O)C)[C@@]5(C)[C@@](O)(CC[C@]45O)C(OC(=O)C(CC)C)C)C)CC3OC)C)CC2OC)C)C(O)C(OC)C(O)","343781-60-2","100000",1e+05,5,"Spillane 294",NA,NA
+"362",313,"trans-anethole","O(C)c1ccc(cc1)\C=C\C","4180-23-8","1300",1300,3.11,"Spillane 294",NA,NA
+"363",314,"trans-cinnamaldehyde","O=C\C=C\c1ccccc1","14371-10-9","5000",5000,3.7,"Spillane 294",NA,NA
+"364",315,"trehalose","O1C(CO)C(O)C(O)C(O)C1O[C@H]1OC(CO)C(O)C(O)C1O","99-20-7","40",42.5,1.63,"Spillane 253",NA,NA
+"366",316,"tripotassium glycyrrhizinate","[KH].[KH].[KH].O1[C@@H](OC2CC[C@@]3([C@H]4[C@@](CC[C@@H]3C2(C)C)(C)[C@@]2(CC[C@@]3([C@@H](C2=CC4=O)C[C@@](CC3)(C(O)=O)C)C)C)C)C(O[C@@H]2OC(C(O)=O)C(O)C(O)C2O","53906-39-1","15000",15000,4.18,"Yang",NA,NA
+"367",317,"tryptophan","OC(=O)C(N)Cc1c2c([nH]c1)cccc2","73-22-3","3500",3500,3.54,"Yang",NA,NA
+"368",318,"xylitol","OC(C(O)CO)C(O)CO","87-99-0","87-100",96.75,1.99,"Spillane 159",NA,NA
+"370",319,"xylobiose","O1CC(O)C(O)C(O)C1OC1COC(O)C(O)C1O","6860-47-5","40",40,1.6,"Yang",NA,NA
+"371",320,"xylose","OC(C(O)CO)C(O)C=O","58-86-6","52.43",52.43,1.72,"Yang",NA,NA
